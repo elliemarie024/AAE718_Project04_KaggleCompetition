@@ -1,0 +1,18 @@
+# Python virtual environment folder
+venv/
+
+# Python compiled bytecode
+__pycache__/
+*.pyc
+
+# Data files (as per assignment instructions)
+train.csv
+test.csv
+
+# Kaggle API key file
+kaggle.json
+
+# Any temporary or output files you don't want to commit
+# (e.g., if you had other temporary CSVs or log files)
+# *.log
+# temp_*.csv
